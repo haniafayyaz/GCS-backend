@@ -1,1 +1,3 @@
 missions/
+__pycache__/
+*.pyc
